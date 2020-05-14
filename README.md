@@ -28,5 +28,5 @@ This game app will allow users to select various categories which will pull quot
 - Karlelisa - Front End, UI designer - https://github.com/Karlelisa
 - Danielle - Back End, DB - https://github.com/daniellekeefe
 - Jo - Back End, API, Git manager - https://github.com/zhaoyu-qiao
-- Rodney - API, Authentication -
+- Rodney - API, Authentication - https://github.com/RJdoesthis
 - Pinar - Authentication -
