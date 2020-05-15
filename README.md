@@ -1,7 +1,7 @@
 # Project-Madlibs
 ## MadLibs Game App
 
-Please see https://github.com/zhaoyu-qiao/Project-Madlibs to see all commits.
+Please see https://github.com/zhaoyu-qiao/Project-Madlibs to see all commits and code.
 
 ## Introduction
 
