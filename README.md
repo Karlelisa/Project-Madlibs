@@ -1,5 +1,5 @@
 # Project-Madlibs
-Project-Madlibs Game App
+MadLibs Game App
 
 Please see https://github.com/zhaoyu-qiao/Project-Madlibs to see all commits.
 
